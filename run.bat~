@@ -1,0 +1,2 @@
+$env:LUA_PATH="?.lua"
+python.exe .\main.py
